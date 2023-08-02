@@ -429,7 +429,7 @@ h6 {
 #hero {
   width: 100%;
   height: calc(120vh - 110px);
-  background: url("../img/azul.avif") top center;
+  background-color:rgb(13, 13, 109);
   background-size: cover;
   position: relative;
 }
